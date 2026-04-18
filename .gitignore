@@ -1,0 +1,13 @@
+# Obsidian workspace state (don't track)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/hotkeys.json
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Temp/backup
+*.tmp
+*~
