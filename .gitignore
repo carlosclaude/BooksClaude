@@ -1,8 +1,5 @@
-# Obsidian workspace state (don't track)
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/cache
-.obsidian/hotkeys.json
+# Ignore all Obsidian internals (config, plugins, workspace state)
+.obsidian/
 
 # OS junk
 .DS_Store
@@ -11,3 +8,4 @@ Thumbs.db
 # Temp/backup
 *.tmp
 *~
+EOF
