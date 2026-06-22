@@ -31,3 +31,7 @@ The absurd stripped to minimum. Godot that never arrives. Hemingway's iceberg wi
 
 ## Notes
 Satellite with serious gap. The trilogy is the big unread debt here.
+
+## See also in the network
+
+- **Parallel** → [[Gödel, Escher, Bach]] — *self-generating system that can't halt.* *The Unnamable* as literary halting problem.

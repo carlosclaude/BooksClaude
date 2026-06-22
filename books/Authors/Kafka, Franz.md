@@ -64,3 +64,7 @@ Reading in German, reportedly, amplifies the humor that English translations ten
 - Whether *Amerika* reads as an outlier or belongs with *The Trial* and *The Castle*. The continental-European texture is absent; the mechanism is similar.
 - The short parables ("Before the Law", "An Imperial Message") as possibly the most distilled Kafka. Testing whether they hold the whole method in compressed form.
 - The DFW-Kafka humor claim at scale: does "funny and horrifying simultaneously" generalize as an interpretive principle, or only describe Kafka?
+
+## See also in the network
+
+- **Tension** → [[Gödel, Escher, Bach]] — *undecidable: proved vs lived.* "Before the Law." Cold proof vs lived condemnation.

@@ -63,3 +63,9 @@ The poetry is adjacent but less central. The essays (*Otras Inquisiciones*) over
 ## Open threads
 - Whether Borges's politics — the complicated stance toward Peronism, the late-life positions — affect how to read the fiction. The fiction mostly stands apart, but not entirely.
 - The Aira connection — genuine succession or respectful distance? The "fuga hacia adelante" is not a Borgesian move (Borges compresses; Aira escapes), but it could only be licensed by Borges having established that narrative logic can be a thought experiment's deliverable rather than a story's arrival.
+
+## See also in the network
+
+- **Tension** → [[Gödel, Escher, Bach]] — *completeness vs incompleteness.* Aleph/Library as the anti-Gödel; the narrator's confession is the real Gödelian moment.
+- **Parallel** → [[Gödel, Escher, Bach]] — *Funes, abstraction as meaning.* Total recall as the death of abstraction; meaning as lossy compression.
+- **Parallel** → [[Gödel, Escher, Bach]] — *recursion / self-inclusion.* Surface parallel; diverges on completeness.

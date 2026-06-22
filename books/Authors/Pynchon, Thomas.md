@@ -67,3 +67,7 @@ Craft model: Pynchon composes, layers, revises — symphonic orchestration. The 
 - *Gravity's Rainbow*: the big test. Whether the Pynchon method scales to 760 pages or breaks under its own ambition. Hypothesis: GR has both *Lot 49*'s structural obsessiveness AND *Vineland*'s human warmth at full scale. To be tested.
 - How much of the paranoid-systems frame dates from 1960s-70s counterculture vs. names something structural.
 - Whether the Krasznahorkai echo is real influence, parallel, or projection.
+
+## See also in the network
+
+- **Tension (provisional)** → [[Gödel, Escher, Bach]] — *?? undecidable as entropy ??* Pinned on gut. **Do not develop until *Gravity's Rainbow* is finished.**
